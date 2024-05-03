@@ -1,13 +1,4 @@
-body {
-  background-color: peachpuff;
-}
-
 h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+  color: lightblue;
+  <p style="background-color:lightyellow;"></p>
 }
